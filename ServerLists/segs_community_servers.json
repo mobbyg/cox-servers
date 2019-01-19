@@ -1,0 +1,22 @@
+{
+  "Servers": [
+    {
+      "ServerID": "1",
+      "ServerDetails": {
+        "Name": "dracc.se",
+        "IP": "dracc.se",
+        "Port": "2106",
+        "Description": "dracc.se server"
+      }
+    },
+    {
+      "ServerID": "2",
+      "ServerDetails": {
+        "Name": "Otlichno",
+        "IP": "149.56.101.186",
+        "Port": "2106",
+        "Description": "Otlichno server"
+      }
+    }
+  ]
+}
