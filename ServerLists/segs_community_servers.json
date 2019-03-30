@@ -3,14 +3,23 @@
     {
       "ServerID": "1",
       "ServerDetails": {
-        "Name": "dracc.se",
-        "IP": "dracc.se",
+        "Name": "segs.io (Blue)",
+        "IP": "blue.segs.io",
         "Port": "2106",
-        "Description": "dracc.se server"
+        "Description": "Register an account at https://blue.segs.io/register.cgi"
       }
     },
     {
       "ServerID": "2",
+      "ServerDetails": {
+        "Name": "segs.io (Red)",
+        "IP": "red.segs.io",
+        "Port": "2106",
+        "Description": "Register an account at https://blue.segs.io/register.cgi"
+      }
+    },
+    {
+      "ServerID": "3",
       "ServerDetails": {
         "Name": "Otlichno",
         "IP": "149.56.101.186",
