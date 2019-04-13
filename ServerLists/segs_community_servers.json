@@ -6,7 +6,8 @@
         "Name": "segs.io (Blue)",
         "IP": "blue.segs.io",
         "Port": "2106",
-        "Description": "Register an account at https://blue.segs.io/register.cgi"
+        "Description": "SEGS Community Server - Latest Development",
+        "WebURL": "https://blue.segs.io/register.cgi"
       }
     },
     {
@@ -15,7 +16,8 @@
         "Name": "segs.io (Red)",
         "IP": "red.segs.io",
         "Port": "2106",
-        "Description": "Register an account at https://blue.segs.io/register.cgi"
+        "Description": "SEGS Community Server - Stable Release",
+        "WebURL": "https://red.segs.io/register.cgi"
       }
     },
     {
@@ -24,7 +26,8 @@
         "Name": "Otlichno",
         "IP": "149.56.101.186",
         "Port": "2106",
-        "Description": "Otlichno server"
+        "Description": "Otlichnos Server",
+        "WebURL": "https://segs.onlineservices.enterprises/"
       }
     }
   ]
